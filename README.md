@@ -1,7 +1,7 @@
 # Fortnite-Offets Every Update
 Going to be leaking Offsets every update:
 
-Uworld: 0x9540700  
+Uworld: 0x9643C40 
 
 GetObjectName: 0x1CC4178  
 
