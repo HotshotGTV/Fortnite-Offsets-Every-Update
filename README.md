@@ -1,20 +1,18 @@
 # Fortnite-Offets Every Update
 Going to be leaking Offsets every update:
 
-Uworld: 0x9540700  
+Uworld: 0x9865730
 
-GetObjectName: 0x1CC4178  
+LineOfSight: 0xcf2a999
 
-fnFree: 0xC057E0
+fnFree: 0x995d19c
 
-GetBoneMatrix: 0x1153620     
+GObjects: 0x968c240  
                                                                                                                                                    
-ProjectionMatrixGivenView: 0x5E7AD14
-
-FNamePool: 0x9539988
+GNames: 0x48c30264
 
 
-<<<<<<<<<<Discord: dsc.lol/shotfn>>>>>>>>>>
+<<<<<<<<<<Discord: dsc.lol/shotware>>>>>>>>>>
 
 Credits:
 !𝙖𝙘𝙝𝙠𝙖𝙩𝙖𝙖 𝙈𝙑𝙋
